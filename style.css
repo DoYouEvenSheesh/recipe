@@ -1,0 +1,14 @@
+* {
+    font-family: monospace, sans-serif, serif;
+}
+
+div {
+    text-align: center;
+    color: green;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+#eggs {
+    color: red;
+}
